@@ -55,7 +55,8 @@ This project is a prototype smart home system built using **Arduino**, designed 
 
 ## 📷 Demo & Images
 
-> *(Insert images or GIFs of your working prototype here)*
+> *![WhatsApp Image 2024-12-27 at 00 57 18_01bc13bf](https://github.com/user-attachments/assets/662fe045-5804-4ace-a007-4fb72df815ef)*
+
 
 ---
 
